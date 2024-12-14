@@ -1,6 +1,5 @@
 from customtkinter import *
 import pandas as pd
-import re
 
 # Creamos la ventana principal del programa
 raiz = CTk()
